@@ -3,6 +3,8 @@ import requests
 
 #https://www.youtube.com/watch?v=y7-Zm5wdARU jony devrock
 
+#antes de usar ejecutar "pip install -r requerimientos.txt" 
+
 url = "https://www.lanacion.com.ar"
 page= requests.get(url)
 
